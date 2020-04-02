@@ -1,0 +1,7 @@
+# python cached files
+*.pyc
+__pycache__
+# logs extensions
+*.npy
+# test files
+test.*
